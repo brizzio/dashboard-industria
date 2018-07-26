@@ -1,2 +1,2 @@
 # dashboard-industria
-dashboard com o reumo das informações do pedido certo 
+dashboard com o resumo das informações do pedido certo 
